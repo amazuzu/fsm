@@ -1,0 +1,9 @@
+target
+/RUNNING_PID
+project/plugins/project/
+project/project
+project/target
+
+.idea/
+/.idea
+/*.iml
